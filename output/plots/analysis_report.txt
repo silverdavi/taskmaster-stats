@@ -1,0 +1,297 @@
+Series Level Trends:
+===================
+
+IMDb Rating:
+  Best fit: y = -0.031x + 8.177
+  r = -0.669
+  p < 0.002**
+  N = 18 series
+
+Volatility:
+  Best fit: y = -0.006x + 0.714
+  r = -0.308
+  p > 0.213
+  N = 18 series
+
+Average Points:
+  Best fit: y = 0.013x + 2.771
+  r = 0.574
+  p < 0.013*
+  N = 18 series
+
+Point Variance:
+  Best fit: y = -0.009x + 3.003
+  r = -0.091
+  p > 0.719
+  N = 18 series
+
+Rank Spread:
+  Best fit: y = 0.000x + 1.498
+  r = 0.027
+  p > 0.916
+  N = 18 series
+
+Lead Changes:
+  Best fit: y = -0.022x + 1.908
+  r = -0.242
+  p > 0.333
+  N = 18 series
+
+Comeback Index:
+  Best fit: y = -0.004x + 0.556
+  r = -0.048
+  p > 0.854
+  N = 17 series
+
+Tension:
+  Best fit: y = 0.031x + 2.015
+  r = 0.224
+  p > 0.388
+  N = 17 series
+
+Score Skewness:
+  Best fit: y = 0.006x + -0.163
+  r = 0.159
+  p > 0.543
+  N = 17 series
+
+Winner Dominance:
+  Best fit: y = 0.021x + 5.546
+  r = 0.149
+  p > 0.568
+  N = 17 series
+
+Winner Margin Slope:
+  Best fit: y = 0.009x + 1.297
+  r = 0.153
+  p > 0.557
+  N = 17 series
+
+
+Episode Feature Correlations:
+===========================
+
+Volatility vs Average Points:
+  r = -0.008
+  p > 0.924
+  N = 162 episodes
+
+Volatility vs Point Variance:
+  r = -0.013
+  p > 0.871
+  N = 162 episodes
+
+Volatility vs Rank Spread:
+  r = -0.332
+  p $10^{ -4 }$***
+  N = 162 episodes
+
+Volatility vs Lead Changes:
+  r = 0.312
+  p $10^{ -4 }$***
+  N = 162 episodes
+
+Volatility vs Comeback Index:
+  r = -0.003
+  p > 0.975
+  N = 151 episodes
+
+Volatility vs Tension:
+  r = -0.066
+  p > 0.422
+  N = 149 episodes
+
+Volatility vs Score Skewness:
+  r = 0.079
+  p > 0.339
+  N = 149 episodes
+
+Volatility vs Winner Dominance:
+  r = -0.386
+  p $10^{ -5 }$***
+  N = 149 episodes
+
+Volatility vs Winner Margin Slope:
+  r = -0.132
+  p > 0.140
+  N = 127 episodes
+
+Average Points vs Point Variance:
+  r = -0.030
+  p > 0.706
+  N = 162 episodes
+
+Average Points vs Rank Spread:
+  r = 0.260
+  p $10^{ -3 }$***
+  N = 162 episodes
+
+Average Points vs Lead Changes:
+  r = -0.031
+  p > 0.697
+  N = 162 episodes
+
+Average Points vs Comeback Index:
+  r = 0.008
+  p > 0.918
+  N = 151 episodes
+
+Average Points vs Tension:
+  r = 0.035
+  p > 0.669
+  N = 149 episodes
+
+Average Points vs Score Skewness:
+  r = -0.004
+  p > 0.960
+  N = 149 episodes
+
+Average Points vs Winner Dominance:
+  r = 0.049
+  p > 0.551
+  N = 149 episodes
+
+Average Points vs Winner Margin Slope:
+  r = 0.124
+  p > 0.166
+  N = 127 episodes
+
+Point Variance vs Rank Spread:
+  r = -0.096
+  p > 0.224
+  N = 162 episodes
+
+Point Variance vs Lead Changes:
+  r = 0.083
+  p > 0.294
+  N = 162 episodes
+
+Point Variance vs Comeback Index:
+  r = -0.158
+  p > 0.052
+  N = 151 episodes
+
+Point Variance vs Tension:
+  r = 0.084
+  p > 0.309
+  N = 149 episodes
+
+Point Variance vs Score Skewness:
+  r = 0.016
+  p > 0.847
+  N = 149 episodes
+
+Point Variance vs Winner Dominance:
+  r = 0.269
+  p $10^{ -3 }$***
+  N = 149 episodes
+
+Point Variance vs Winner Margin Slope:
+  r = 0.218
+  p < 0.014*
+  N = 127 episodes
+
+Rank Spread vs Lead Changes:
+  r = -0.197
+  p < 0.012*
+  N = 162 episodes
+
+Rank Spread vs Comeback Index:
+  r = 0.138
+  p > 0.092
+  N = 151 episodes
+
+Rank Spread vs Tension:
+  r = 0.077
+  p > 0.349
+  N = 149 episodes
+
+Rank Spread vs Score Skewness:
+  r = -0.033
+  p > 0.687
+  N = 149 episodes
+
+Rank Spread vs Winner Dominance:
+  r = 0.175
+  p < 0.033*
+  N = 149 episodes
+
+Rank Spread vs Winner Margin Slope:
+  r = 0.029
+  p > 0.744
+  N = 127 episodes
+
+Lead Changes vs Comeback Index:
+  r = 0.045
+  p > 0.585
+  N = 151 episodes
+
+Lead Changes vs Tension:
+  r = -0.578
+  p $10^{ -13 }$***
+  N = 149 episodes
+
+Lead Changes vs Score Skewness:
+  r = -0.326
+  p $10^{ -4 }$***
+  N = 149 episodes
+
+Lead Changes vs Winner Dominance:
+  r = -0.510
+  p $10^{ -10 }$***
+  N = 149 episodes
+
+Lead Changes vs Winner Margin Slope:
+  r = -0.214
+  p < 0.016*
+  N = 127 episodes
+
+Comeback Index vs Tension:
+  r = -0.130
+  p > 0.119
+  N = 146 episodes
+
+Comeback Index vs Score Skewness:
+  r = -0.041
+  p > 0.622
+  N = 146 episodes
+
+Comeback Index vs Winner Dominance:
+  r = -0.155
+  p > 0.062
+  N = 146 episodes
+
+Comeback Index vs Winner Margin Slope:
+  r = 0.196
+  p < 0.027*
+  N = 127 episodes
+
+Tension vs Score Skewness:
+  r = 0.669
+  p $10^{ -19 }$***
+  N = 149 episodes
+
+Tension vs Winner Dominance:
+  r = 0.743
+  p $10^{ -26 }$***
+  N = 149 episodes
+
+Tension vs Winner Margin Slope:
+  r = 0.355
+  p $10^{ -4 }$***
+  N = 127 episodes
+
+Score Skewness vs Winner Dominance:
+  r = 0.473
+  p $10^{ -8 }$***
+  N = 149 episodes
+
+Score Skewness vs Winner Margin Slope:
+  r = 0.274
+  p < 0.002**
+  N = 127 episodes
+
+Winner Dominance vs Winner Margin Slope:
+  r = 0.642
+  p $10^{ -15 }$***
+  N = 127 episodes
